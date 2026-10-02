@@ -1,0 +1,15 @@
+{
+  "name": "anomity",
+  "displayName": "Anomity",
+  "version": "0.1.0",
+  "description": "Ask Claude about your fleet's AI security posture through the Anomity connector: findings, MCP servers, shadow AI accounts, exposed secrets, compliance readiness and allowlist suggestions. Skills turn the answers into posture briefings, finding triage, device investigations and allowlist reviews.",
+  "author": {
+    "name": "Anomity",
+    "email": "support@anomity.ai",
+    "url": "https://anomity.ai"
+  },
+  "homepage": "https://anomity.ai/docs/",
+  "repository": "https://github.com/Anomity-ai/claude-plugin",
+  "license": "MIT",
+  "keywords": ["security", "ai-governance", "shadow-ai", "mcp", "compliance"]
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "anomity": {
+      "type": "http",
+      "url": "https://app.anomity.ai/mcp",
+      "oauth": {
+        "clientId": "AUdEgpA1m95IA89NHXkbpLTBuNLNxQkK",
+        "callbackPort": 8765
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# The directory blocks a plugin folder that contains OS metadata files.
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+
+# Local test artifacts: the zip uploaded to claude.ai, and Claude Code's own settings.
+*.zip
+.claude/
+
+# IDE project files. Everything committed here ships inside the plugin.
+.idea/
+.vscode/

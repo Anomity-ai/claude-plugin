@@ -9,7 +9,9 @@
     "url": "https://anomity.ai"
   },
   "homepage": "https://anomity.ai/docs/",
+  "documentationUrl": "https://anomity.ai/docs/#the-anomity-mcp-server",
   "privacyPolicyUrl": "https://anomity.ai/legal/privacy-policy/",
+  "termsOfServiceUrl": "https://anomity.ai/legal/terms-of-service/",
   "repository": "https://github.com/Anomity-ai/claude-plugin",
   "license": "MIT",
   "keywords": [

@@ -52,8 +52,8 @@ client ID and the fixed sign-in port Anomity's login service expects, so there
 is nothing to configure. Run `/mcp`, choose the Anomity server, and
 authenticate.
 
-Full connection instructions, including troubleshooting, are at
-[anomity.ai/docs](https://anomity.ai/docs/).
+Full connection instructions are in the
+[Anomity docs](https://anomity.ai/docs/#the-anomity-mcp-server).
 
 ## What this plugin contains, runs, and sends
 
@@ -79,7 +79,7 @@ permissions, and grants nothing until you sign in.
 
 ## Support and privacy
 
-- Documentation: [anomity.ai/docs](https://anomity.ai/docs/)
+- Documentation: [anomity.ai/docs](https://anomity.ai/docs/#the-anomity-mcp-server)
 - Support: [support@anomity.ai](mailto:support@anomity.ai)
 - Privacy policy: [anomity.ai/legal/privacy-policy](https://anomity.ai/legal/privacy-policy/)
 - Terms of service: [anomity.ai/legal/terms-of-service](https://anomity.ai/legal/terms-of-service/)

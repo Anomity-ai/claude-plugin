@@ -9,7 +9,14 @@
     "url": "https://anomity.ai"
   },
   "homepage": "https://anomity.ai/docs/",
+  "privacyPolicyUrl": "https://anomity.ai/legal/privacy-policy/",
   "repository": "https://github.com/Anomity-ai/claude-plugin",
   "license": "MIT",
-  "keywords": ["security", "ai-governance", "shadow-ai", "mcp", "compliance"]
+  "keywords": [
+    "security",
+    "ai-governance",
+    "shadow-ai",
+    "mcp",
+    "compliance"
+  ]
 }
